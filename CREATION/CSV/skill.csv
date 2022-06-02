@@ -1,0 +1,98 @@
+type,description
+language,Anglais
+language,Français
+language,Allemand
+language,Espagnol
+language,Italien
+language,Mandarin
+language,Japonais
+language,Portugais
+language,Arabe
+instrument,Piano
+instrument,Clavecin
+instrument,Accordéon
+instrument,Violon
+instrument,Violoncelle
+instrument,Contrebasse
+instrument,Guitare
+instrument,Flûte à bec
+instrument,Flûte traversière
+instrument,Clarinette
+instrument,Trombone
+instrument,Saxophone
+instrument,Trompette
+instrument,Batterie
+instrument,Percussions
+instrument,Guitare électrique
+instrument,Guitare basse
+instrument,Synthétiseur
+instrument,Musique assistée par ordinateur
+instrument,Banjo
+instrument,Ukulélé
+instrument,Bendir
+instrument,Kazoo
+instrument,Kuitra
+instrument,Harpe
+instrument,Harmonica
+instrument,Orgue
+instrument,Hautbois
+instrument,Hang
+instrument,Soubassophone
+instrument,Sitar
+instrument,Vielle à roue
+instrument,Xylophone
+job,Acteur.trice
+job,Photographe
+job,Chorégraphe
+job,Musicien.ne
+job,Comédien.ne
+job,Acrobate 
+job,Clown
+job,Funambule
+job,Chanteur.euse
+job,Ingénieur.e du Saxophone
+job,Ingénieur.e lumière
+job,Scénariste
+job,Metteur.euse en scène
+job,Compositeur.ice
+job,Danseur.euse Danse contemporaine
+job,Danseur.euse Danse classique
+job,Danseur.euse Danse Modern Jazz
+job,Réalisateur.ice
+job,Cascadeur.se 
+job,Producteur.ice
+job,Directeur.ice de Casting
+job,Directeur.ice de la photographie 
+job,Chef.fe Décorateur.ice
+job,Maquilleur.se
+job,Costumier.e
+job,Chef.fe monteur.se
+job,Monteur.se
+job,Bruiteur
+job,Dialogiste
+job,Musicien.ne de film 
+job,Acteuri.ce de doublage
+formation,Diplôme d'études chorégraphiques
+formation,Diplôme National Supérieur Professionel danseur
+formation,Ecole de l'Opéra de Paris
+formation,Centre national de danse contemporaine d'Angers
+formation,Ecole nationale supérieure de danse de Marseille
+formation,Ecole supérieure de danse Rosella-Hightower
+formation,Conservatoire national supérieur d'art dramatique
+formation,Conservatoire National Supérieur de Musique et de Danse de Paris
+formation,Cascadeur.euse
+formation,Acrobate
+formation,Athlète
+formation,Langue des signes
+formation,Le Centre national des arts du cirque 
+formation,L'académie Fratellini
+formation,Cours Florent
+formation,L'Ecole Supérieur d'art dramatique du théâtre de Starsbourg
+formation,Chansigne
+formation,Musicologie
+formation,Scénographie
+formation,Menuiserie
+formation,Peintre
+formation,Audiovisuel
+formation,Ecole Louis lumière
+formation,Combat scénique
